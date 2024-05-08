@@ -1,14 +1,14 @@
 # Fdb version 3
-["biber resume"] 1715187450 "resume.bcf" "resume.bbl" "resume" 1715189665
-  "resume.bcf" 1715189664 106508 296285a0cc5d9193ef32035c1617b92d "xelatex"
+["biber resume"] 1715187450 "resume.bcf" "resume.bbl" "resume" 1715197175
+  "resume.bcf" 1715197174 106508 296285a0cc5d9193ef32035c1617b92d "xelatex"
   (generated)
   "resume.bbl"
   "resume.blg"
-["xdvipdfmx"] 1715189664 "resume.xdv" "resume.pdf" "resume" 1715189665
-  "resume.xdv" 1715189664 45148 8f39ffdbbf7e5a6783c3c1367782b127 "xelatex"
+["xdvipdfmx"] 1715197174 "resume.xdv" "resume.pdf" "resume" 1715197175
+  "resume.xdv" 1715197174 42484 e7f6e480f9b8d046d9641ac1bf13af50 "xelatex"
   (generated)
   "resume.pdf"
-["xelatex"] 1715189661 "/Users/elvisperlika/Italian Resume/resume.tex" "resume.xdv" "resume" 1715189665
+["xelatex"] 1715197168 "/Users/elvisperlika/Italian Resume/resume.tex" "resume.xdv" "resume" 1715197175
   "/Users/elvisperlika/Italian Resume/resume.tex" 1707408917 3464 4bb0f439eadeebaa7c790470146cbc93 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -190,12 +190,12 @@
   "/usr/local/texlive/2022/texmf-var/web2c/xetex/xelatex.fmt" 1671542982 5419897 49a3a1fa958fc326394a08a0572ff40f ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
   "cv/education.tex" 1707399940 1205 b43bf8fcbd21c1f10af549a8a0089a1b ""
-  "cv/experience.tex" 1715187642 1934 b6ca1234419f65fee47f4321424a1be5 ""
-  "cv/projects.tex" 1715189660 3635 5482378034a8b4bb24fa8bc69b5f715b ""
+  "cv/experience.tex" 1715197118 1724 0b2ea3e4460a68fa620d6bb902a6d527 ""
+  "cv/projects.tex" 1715197168 3515 d50337bdd92bbcd6945904e58b244c69 ""
   "cv/skills.tex" 1707399940 1026 80b9015a2afeb6b2f88582ed0d533b25 ""
-  "resume.aux" 1715189664 706 2797a84815dd12d5b7984214d4b3cd16 "xelatex"
+  "resume.aux" 1715197174 706 2797a84815dd12d5b7984214d4b3cd16 "xelatex"
   "resume.bbl" 1715187452 466 ee04f40f768daeed26442158e95aba61 "biber resume"
-  "resume.run.xml" 1715189664 2392 d6d0ebd8959311cd61d438b6a0625acb "xelatex"
+  "resume.run.xml" 1715197174 2392 d6d0ebd8959311cd61d438b6a0625acb "xelatex"
   "resume.tex" 1707408917 3464 4bb0f439eadeebaa7c790470146cbc93 ""
   "russell.cls" 1707408946 32363 098aa8e6dee09d92e994c89b80f1b6a4 ""
   (generated)
