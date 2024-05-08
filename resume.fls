@@ -1,8 +1,8 @@
-PWD /Users/elvisperlika/Desktop/Resume
+PWD /Users/elvisperlika/Italian Resume
 INPUT /usr/local/texlive/2022/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-var/web2c/xetex/xelatex.fmt
-INPUT /Users/elvisperlika/Desktop/Resume/resume.tex
+INPUT /Users/elvisperlika/Italian Resume/resume.tex
 OUTPUT resume.log
 INPUT ./russell.cls
 INPUT ./russell.cls
@@ -1180,6 +1180,9 @@ INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT ./resume.aux
+INPUT resume.aux
+INPUT resume.aux
 OUTPUT resume.aux
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -1231,3 +1234,23 @@ INPUT resume.bbl
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi7.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi5.tfm
+INPUT ./cv/education.tex
+INPUT cv/education.tex
+INPUT ./cv/education.tex
+INPUT cv/education.tex
+INPUT ./cv/projects.tex
+INPUT cv/projects.tex
+INPUT ./cv/projects.tex
+INPUT cv/projects.tex
+INPUT ./cv/experience.tex
+INPUT cv/experience.tex
+INPUT ./cv/experience.tex
+INPUT cv/experience.tex
+INPUT ./cv/skills.tex
+INPUT cv/skills.tex
+INPUT ./cv/skills.tex
+INPUT cv/skills.tex
+OUTPUT resume.xdv
+INPUT resume.aux
+INPUT resume.run.xml
+OUTPUT resume.run.xml
